@@ -1,0 +1,10 @@
+{
+    "stopOnDefeated": true,
+    "stopOnKizunaReisou": true,
+    "stayOnTop": true,
+    "closeToTray": false,
+    "notifyEnable": false,
+    "notifyParam": {
+        "scKey": ""
+    }
+}
